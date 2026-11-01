@@ -1,6 +1,3 @@
-# BPC-Student-Management-System-SIS-
-A desktop Student Information System for Bulacan Polytechnic College, built with C# and .NET 10. It helps manage student records, enrollment, academic information, faculty accounts, and subject assignments in one place.
-
 # BPC Student Information System
 
 The **BPC Student Information System (BPC SIS)** is a desktop application developed for Bulacan Polytechnic College. It aims to make managing student records, enrollment, academic information, and faculty assignments easier and more organized.
