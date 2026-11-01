@@ -62,4 +62,8 @@ It also allows administrators to manage faculty members and assign subjects to s
 
 ---
 
+## Releases
+
+Check the [Releases](../../releases) page for the latest updates and download the installer to try out the application. New versions and improvements will be posted there.
+
 This project was developed as part of our academic work to apply what we have learned in programming, database management, and information systems development.
